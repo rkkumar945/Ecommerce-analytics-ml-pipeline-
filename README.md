@@ -145,7 +145,6 @@ Predicted demand score: 2545.30
 
 Planned extensions, not yet implemented:
 
-- [ ] React.js frontend for a customer-facing storefront
 - [ ] Customer segmentation with K-Means clustering
 - [ ] Fraud detection with XGBoost
 - [ ] Power BI dashboard fed by an automated ETL pipeline
