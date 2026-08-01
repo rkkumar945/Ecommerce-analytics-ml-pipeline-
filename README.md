@@ -112,7 +112,7 @@ python manage.py migrate
 ```
 
 **6. Seed sample data** (so the API and analytics script have something to show)
-```bash
+```bash 
 python manage.py seed_sample_data
 ```
 
